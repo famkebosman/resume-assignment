@@ -6,7 +6,7 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"sans-serif;
 	color: #670000;
 	background-color: #f8f8fc;
 }
