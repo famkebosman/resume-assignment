@@ -49,3 +49,8 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+.hallo {
+	font-family: "quayside", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
