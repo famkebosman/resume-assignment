@@ -6,7 +6,7 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"sans-serif;
+	font-family: Lato, Baskerville, 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', 'serif'Roboto, Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, 'sans-serif'"Helvetica Neue", Helvetica, Cambria, "Hoefler Text", "Liberation Serif", Times, Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, 'sans-serif'"serif"sans-serif;
 	color: #670000;
 	background-color: #f8f8fc;
 }
@@ -22,7 +22,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #B0E1F8;
+	background-color: #FFA6FC;
 }
 
 /* Styles for lists in the document */
